@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\Share Brokering - David Hart.exe.config
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\Share Brokering - David Hart.exe
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\Share Brokering - David Hart.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\ConvertFile.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\Entities.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\ConvertFile.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\obj\Debug\Share Brokering - David Hart.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\obj\Debug\Share_Brokering___David_Hart.Trader.resources
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\obj\Debug\Share_Brokering___David_Hart.Properties.Resources.resources
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\obj\Debug\Share Brokering - David Hart.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\obj\Debug\Share Brokering - David Hart.exe
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\Share Brokering - David Hart\obj\Debug\Share Brokering - David Hart.pdb

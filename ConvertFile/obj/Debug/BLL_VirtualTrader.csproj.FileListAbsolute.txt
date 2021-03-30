@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\bin\Debug\ConvertFile.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\bin\Debug\ConvertFile.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\bin\Debug\Entities.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\obj\Debug\BLL_VirtualTrader.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\obj\Debug\ConvertFile.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ConvertFile\obj\Debug\ConvertFile.pdb

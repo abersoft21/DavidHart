@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\ShareTest.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\ShareTest.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\ConvertFile.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\Entities.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\ConvertFile.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\obj\Debug\ShareTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\obj\Debug\ShareTest.dll
+C:\Users\User\Desktop\cv\ComputerShare\Share Brokering - David Hart\ShareTest\obj\Debug\ShareTest.pdb
